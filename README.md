@@ -23,17 +23,17 @@ Project Structure
 -----------------
 Sentiment_Analyzer/
 ├── app/
-│   ├── main.py                # Streamlit web application
-│   └── assets/
-│       └── style.css          # Custom styling for the app
+│ ├── main.py # Streamlit web application
+│ └── assets/
+│ └── style.css # Custom styling for the app
 ├── models/
-│   ├── sentiment_classifier.h5  # Trained sentiment analysis model
-│   └── tokenizer.json         # Text tokenizer for preprocessing
+│ ├── sentiment_classifier.h5 # Trained sentiment analysis model
+│ └── tokenizer.json # Text tokenizer for preprocessing
 ├── notebooks/
-│   └── model_training.ipynb   # Jupyter notebook with model development
+│ └── model_training.ipynb # Jupyter notebook with model development
 ├── data/
-│   ├── raw/                   # Original IMDB dataset
-└── ReadMe.md                  # Project documentation
+│ └── raw/ # Original IMDB dataset
+└── ReadMe.md # Project documentation
 
 Getting Started
 ---------------
