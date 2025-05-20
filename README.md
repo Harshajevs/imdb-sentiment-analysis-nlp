@@ -1,6 +1,8 @@
 # imdb-sentiment-analysis-nlp
 A Natural Language Processing (NLP) project for sentiment analysis of IMDB movie reviews using deep learning techniques. This project involves data preprocessing, model training with LSTM-based architectures, evaluation, and a Streamlit-powered web app for real-time sentiment prediction.
 
+Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?datasetId=134715&sortBy=dateRun&tab=profile
+
 Features
 --------
 - **Advanced Text Preprocessing**: Cleans and normalizes text with specialized handling for negations and context-specific terms
