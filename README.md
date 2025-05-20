@@ -21,7 +21,7 @@ Technology Stack
 
 Project Structure
 -----------------
-MovieMood/
+Sentiment_Analyzer/
 ├── app/
 │   ├── main.py                # Streamlit web application
 │   └── assets/
@@ -46,8 +46,8 @@ Getting Started
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/MovieMood.git
-cd MovieMood
+git clone https://github.com/Harshajevs/imdb-sentiment-analysis-nlp.git
+cd imdb-sentiment-analysis-nlp
 
 # Install dependencies
 pip install -r requirements.txt
