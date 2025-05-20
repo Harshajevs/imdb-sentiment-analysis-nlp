@@ -24,7 +24,6 @@ Project Structure
 Sentiment_Analyzer/
 ├── app/
 │ ├── main.py # Streamlit web application
-│ └── assets/
 │ └── style.css # Custom styling for the app
 ├── models/
 │ ├── sentiment_classifier.h5 # Trained sentiment analysis model
