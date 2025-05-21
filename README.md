@@ -90,7 +90,7 @@ References
 
 Author
 ------
-Your Name - [https://github.com/Harshajevs](https://github.com/Harshajevs)
+Kammari HarshaVardhan - [https://github.com/Harshajevs](https://github.com/Harshajevs)
 
 License
 -------
